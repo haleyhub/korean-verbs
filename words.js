@@ -1,1 +1,27 @@
-
+const words = [
+  { base: "가다", eng: "to go", type: "Verb", pattern: "Regular", polite: "가요", formal: "갑니다", past: "갔어요", future: "갈 거예요", casual: "가" },
+  { base: "오다", eng: "to come", type: "Verb", pattern: "Regular", polite: "와요", formal: "옵니다", past: "왔어요", future: "올 거예요", casual: "와" },
+  { base: "먹다", eng: "to eat", type: "Verb", pattern: "Regular", polite: "먹어요", formal: "먹습니다", past: "먹었어요", future: "먹을 거예요", casual: "먹어" },
+  { base: "마시다", eng: "to drink", type: "Verb", pattern: "Regular", polite: "마셔요", formal: "마십니다", past: "마셨어요", future: "마실 거예요", casual: "마셔" },
+  { base: "하다", eng: "to do", type: "Verb", pattern: "Irregular (여)", polite: "해요", formal: "합니다", past: "했어요", future: "할 거예요", casual: "해" },
+  { base: "보다", eng: "to see / watch", type: "Verb", pattern: "Regular", polite: "봐요", formal: "봅니다", past: "봤어요", future: "볼 거예요", casual: "봐" },
+  { base: "듣다", eng: "to listen / hear", type: "Verb", pattern: "Irregular (ㄷ)", polite: "들어요", formal: "듣습니다", past: "들었어요", future: "들을 거예요", casual: "들어" },
+  { base: "걷다", eng: "to walk", type: "Verb", pattern: "Irregular (ㄷ)", polite: "걸어요", formal: "걷습니다", past: "걸었어요", future: "걸을 거예요", casual: "걸어" },
+  { base: "쓰다", eng: "to write / use", type: "Verb", pattern: "Irregular (으)", polite: "써요", formal: "씁니다", past: "썼어요", future: "쓸 거예요", casual: "써" },
+  { base: "살다", eng: "to live", type: "Verb", pattern: "Irregular (ㄹ)", polite: "살아요", formal: "삽니다", past: "살았어요", future: "살 거예요", casual: "살아" },
+  { base: "모르다", eng: "to not know", type: "Verb", pattern: "Irregular (르)", polite: "몰라요", formal: "모릅니다", past: "몰랐어요", future: "모를 거예요", casual: "몰라" },
+  { base: "돕다", eng: "to help", type: "Verb", pattern: "Irregular (ㅂ)", polite: "도와요", formal: "돕습니다", past: "도왔어요", future: "도울 거예요", casual: "도와" },
+  { base: "짓다", eng: "to build / make", type: "Verb", pattern: "Irregular (ㅅ)", polite: "지어요", formal: "짓습니다", past: "지었어요", future: "지을 거예요", casual: "지어" },
+  { base: "좋다", eng: "to be good", type: "Adjective", pattern: "Regular", polite: "좋아요", formal: "좋습니다", past: "좋았어요", future: "좋을 거예요", casual: "좋아" },
+  { base: "크다", eng: "to be big", type: "Adjective", pattern: "Irregular (으)", polite: "커요", formal: "큽니다", past: "컸어요", future: "클 거예요", casual: "커" },
+  { base: "작다", eng: "to be small", type: "Adjective", pattern: "Regular", polite: "작아요", formal: "작습니다", past: "작았어요", future: "작을 거예요", casual: "작아" },
+  { base: "춥다", eng: "to be cold (weather)", type: "Adjective", pattern: "Irregular (ㅂ)", polite: "추워요", formal: "춥습니다", past: "추웠어요", future: "추울 거예요", casual: "추워" },
+  { base: "덥다", eng: "to be hot (weather)", type: "Adjective", pattern: "Irregular (ㅂ)", polite: "더워요", formal: "덥습니다", past: "더웠어요", future: "더울 거예요", casual: "더워" },
+  { base: "어렵다", eng: "to be difficult", type: "Adjective", pattern: "Irregular (ㅂ)", polite: "어려워요", formal: "어렵습니다", past: "어려웠어요", future: "어려울 거예요", casual: "어려워" },
+  { base: "쉽다", eng: "to be easy", type: "Adjective", pattern: "Irregular (ㅂ)", polite: "쉬워요", formal: "쉽습니다", past: "쉬웠어요", future: "쉬울 거예요", casual: "쉬워" },
+  { base: "빠르다", eng: "to be fast", type: "Adjective", pattern: "Irregular (르)", polite: "빨라요", formal: "빠릅니다", past: "빨랐어요", future: "빠를 거예요", casual: "빨라" },
+  { base: "길다", eng: "to be long", type: "Adjective", pattern: "Irregular (ㄹ)", polite: "길어요", formal: "깁니다", past: "길었어요", future: "길 거예요", casual: "길어" },
+  { base: "그렇다", eng: "to be so / like that", type: "Adjective", pattern: "Irregular (ㅎ)", polite: "그래요", formal: "그렇습니다", past: "그랬어요", future: "그럴 거예요", casual: "그래" },
+  { base: "맛있다", eng: "to be delicious", type: "Adjective", pattern: "Regular", polite: "맛있어요", formal: "맛있습니다", past: "맛있었어요", future: "맛있을 거예요", casual: "맛있어" },
+  { base: "바쁘다", eng: "to be busy", type: "Adjective", pattern: "Irregular (으)", polite: "바빠요", formal: "바쁩니다", past: "바빴어요", future: "바쁠 거예요", casual: "바빠" }
+];
