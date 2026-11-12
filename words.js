@@ -64,4 +64,5 @@ const words = [
   { base: "질문하다", eng: "to ask a question", type: "Verb", pattern: "Irregular (여)", polite: "질문해요", formal: "질문합니다", past: "질문했어요", future: "질문할 거예요", casual: "질문해" },
   { base: "대답하다", eng: "to answer / reply", type: "Verb", pattern: "Irregular (여)", polite: "대답해요", formal: "대답합니다", past: "대답했어요", future: "대답할 거예요", casual: "대답해" },
   { base: "준비하다", eng: "to prepare", type: "Verb", pattern: "Irregular (여)", polite: "준비해요", formal: "준비합니다", past: "준비했어요", future: "준비할 거예요", casual: "준비해" },
-  { base: "시작하다", eng: "to start / begin", type: "Verb", pattern: "Irregular (여)", polite: "시작해요", formal: "시작합니다", past: "시작했어요", future: "시작할 거예요", casual: "시작해" },,
+  { base: "시작하다", eng: "to start / begin", type: "Verb", pattern: "Irregular (여)", polite: "시작해요", formal: "시작합니다", past: "시작했어요", future: "시작할 거예요", casual: "시작해" }
+  ];
