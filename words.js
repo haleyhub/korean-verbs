@@ -126,7 +126,6 @@ const words = [
 { base:"듣다", eng:"to listen / hear", type:"Verb", pattern:"Irregular (ㄷ)", polite:"들어요", formal:"듣습니다", past:"들었어요", future:"들을 거예요", casual:"들어" },
 { base:"묻다", eng:"to ask", type:"Verb", pattern:"Irregular (ㄷ)", polite:"물어요", formal:"묻습니다", past:"물었어요", future:"물을 거예요", casual:"물어" },
 { base:"깨닫다", eng:"to realize", type:"Verb", pattern:"Irregular (ㄷ)", polite:"깨달아요", formal:"깨닫습니다", past:"깨달았어요", future:"깨달을 거예요", casual:"깨달아" },
-{ base:"짓다", eng:"to build / make", type:"Verb", pattern:"Irregular (ㅅ)", polite:"지어요", formal:"짓습니다", past:"지었어요", future:"지을 거예요", casual:"지어" },
 { base:"낫다", eng:"to recover / get better", type:"Verb", pattern:"Irregular (ㅅ)", polite:"나아요", formal:"낫습니다", past:"나았어요", future:"나을 거예요", casual:"나아" },
 { base:"붓다", eng:"to pour", type:"Verb", pattern:"Irregular (ㅅ)", polite:"부어요", formal:"붓습니다", past:"부었어요", future:"부을 거예요", casual:"부어" },
 { base:"잇다", eng:"to connect", type:"Verb", pattern:"Irregular (ㅅ)", polite:"이어요", formal:"잇습니다", past:"이었어요", future:"이을 거예요", casual:"이어" },
