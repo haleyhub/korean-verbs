@@ -22,6 +22,8 @@ function renderTable() {
     return matchesQuery && matchesType && matchesIrreg;
   });
 
+  filtered.sort((a, b) => a.base.localeCompare(b.base, "ko"));
+
   resultCount.textContent = `Showing ${filtered.length} of ${words.length} entries`;
   tableBody.innerHTML = filtered.map(w => `
     <tr>
