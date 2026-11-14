@@ -643,5 +643,15 @@ const words = [
 { base:"일으키다", eng:"to cause; to raise; to start", type:"Verb", pattern:"Regular", polite:"일으켜요", formal:"일으킵니다", past:"일으켰어요", future:"일으킬 거예요", casual:"일으켜" },
 { base:"잠재우다", eng:"to put to sleep; to calm", type:"Verb", pattern:"Regular", polite:"잠재워요", formal:"잠재웁니다", past:"잠재웠어요", future:"잠재울 거예요", casual:"잠재워" },
 { base:"짓누르다", eng:"to press down; to oppress", type:"Verb", pattern:"Irregular (르)", polite:"짓눌러요", formal:"짓누릅니다", past:"짓눌렀어요", future:"짓누를 거예요", casual:"짓눌러" },
-{ base:"휘감다", eng:"to wrap around; to coil around", type:"Verb", pattern:"Regular", polite:"휘감아요", formal:"휘감습니다", past:"휘감았어요", future:"휘감을 거예요", casual:"휘감아" }
+{ base:"휘감다", eng:"to wrap around; to coil around", type:"Verb", pattern:"Regular", polite:"휘감아요", formal:"휘감습니다", past:"휘감았어요", future:"휘감을 거예요", casual:"휘감아" },
+ { base:"고되다", eng:"to be arduous; exhausting", type:"Adjective", pattern:"Regular", polite:"고돼요", formal:"고됩니다", past:"고됐어요", future:"고될 거예요", casual:"고돼" },
+{ base:"낯설다", eng:"to be unfamiliar; strange", type:"Adjective", pattern:"Irregular (ㄹ)", polite:"낯설어요", formal:"낯섭니다", past:"낯설었어요", future:"낯설 거예요", casual:"낯설어" },
+{ base:"드세다", eng:"to be strong; fierce", type:"Adjective", pattern:"Regular", polite:"드세요", formal:"드셉니다", past:"드셌어요", future:"드셀 거예요", casual:"드세" },
+{ base:"벅차다", eng:"to be overwhelming; challenging", type:"Adjective", pattern:"Regular", polite:"벅차요", formal:"벅찹니다", past:"벅찼어요", future:"벅찰 거예요", casual:"벅차" },
+{ base:"시답잖다", eng:"to be trivial; unimpressive", type:"Adjective", pattern:"Regular", polite:"시답잖아요", formal:"시답잖습니다", past:"시답잖았어요", future:"시답잖을 거예요", casual:"시답잖아" },
+{ base:"시원찮다", eng:"to be unsatisfactory; inadequate", type:"Adjective", pattern:"Regular", polite:"시원찮아요", formal:"시원찮습니다", past:"시원찮았어요", future:"시원찮을 거예요", casual:"시원찮아" },
+{ base:"야무지다", eng:"to be capable; competent; thorough", type:"Adjective", pattern:"Regular", polite:"야무져요", formal:"야무집니다", past:"야무졌어요", future:"야무질 거예요", casual:"야무져" },
+{ base:"짓궂다", eng:"to be mischievous; naughty", type:"Adjective", pattern:"Regular", polite:"짓궂어요", formal:"짓궂습니다", past:"짓궂었어요", future:"짓궂을 거예요", casual:"짓궂어" },
+{ base:"헐겁다", eng:"to be loose; slack", type:"Adjective", pattern:"Irregular (ㅂ)", polite:"헐거워요", formal:"헐겁습니다", past:"헐거웠어요", future:"헐거울 거예요", casual:"헐거워" },
+{ base:"을씨년스럽다", eng:"to be bleak; gloomy", type:"Adjective", pattern:"Irregular (ㅂ)", polite:"을씨년스러워요", formal:"을씨년스럽습니다", past:"을씨년스러웠어요", future:"을씨년스러울 거예요", casual:"을씨년스러워" }
 ];
