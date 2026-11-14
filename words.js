@@ -671,5 +671,26 @@ const words = [
 { base:"까칠하다", eng:"to be prickly; touchy", type:"Adjective", pattern:"Regular", polite:"까칠해요", formal:"까칠합니다", past:"까칠했어요", future:"까칠할 거예요", casual:"까칠해" },
 { base:"넉넉하다", eng:"to be ample; sufficient", type:"Adjective", pattern:"Regular", polite:"넉넉해요", formal:"넉넉합니다", past:"넉넉했어요", future:"넉넉할 거예요", casual:"넉넉해" },
 { base:"무르다", eng:"to be soft; tender", type:"Adjective", pattern:"Irregular (르)", polite:"물러요", formal:"무릅니다", past:"물렀어요", future:"무를 거예요", casual:"물러" },
-{ base:"희미하다", eng:"to be faint; dim; vague", type:"Adjective", pattern:"Regular", polite:"희미해요", formal:"희미합니다", past:"희미했어요", future:"희미할 거예요", casual:"희미해" }
+{ base:"희미하다", eng:"to be faint; dim; vague", type:"Adjective", pattern:"Regular", polite:"희미해요", formal:"희미합니다", past:"희미했어요", future:"희미할 거예요", casual:"희미해" },
+ { base:"가다듬다", eng:"to compose oneself; collect one's thoughts", type:"Verb", pattern:"Regular", polite:"가다듬어요", formal:"가다듬습니다", past:"가다듬었어요", future:"가다듬을 거예요", casual:"가다듬어" },
+{ base:"거둬들이다", eng:"to collect; gather in", type:"Verb", pattern:"Regular", polite:"거둬들여요", formal:"거둬들입니다", past:"거둬들였어요", future:"거둬들일 거예요", casual:"거둬들여" },
+{ base:"곱씹다", eng:"to mull over; reflect on", type:"Verb", pattern:"Regular", polite:"곱씹어요", formal:"곱씹습니다", past:"곱씹었어요", future:"곱씹을 거예요", casual:"곱씹어" },
+{ base:"기웃거리다", eng:"to peek around; look around repeatedly", type:"Verb", pattern:"Regular", polite:"기웃거려요", formal:"기웃거립니다", past:"기웃거렸어요", future:"기웃거릴 거예요", casual:"기웃거려" },
+{ base:"내뱉다", eng:"to spit out; utter abruptly", type:"Verb", pattern:"Regular", polite:"내뱉어요", formal:"내뱉습니다", past:"내뱉었어요", future:"내뱉을 거예요", casual:"내뱉어" },
+{ base:"눌러앉다", eng:"to settle down; stay put", type:"Verb", pattern:"Regular", polite:"눌러앉아요", formal:"눌러앉습니다", past:"눌러앉았어요", future:"눌러앉을 거예요", casual:"눌러앉아" },
+{ base:"도려내다", eng:"to cut out; excise", type:"Verb", pattern:"Regular", polite:"도려내요", formal:"도려냅니다", past:"도려냈어요", future:"도려낼 거예요", casual:"도려내" },
+{ base:"되돌아보다", eng:"to look back; reflect", type:"Verb", pattern:"Regular", polite:"되돌아봐요", formal:"되돌아봅니다", past:"되돌아봤어요", future:"되돌아볼 거예요", casual:"되돌아봐" },
+{ base:"들춰내다", eng:"to expose; bring to light", type:"Verb", pattern:"Regular", polite:"들춰내요", formal:"들춰냅니다", past:"들춰냈어요", future:"들춰낼 거예요", casual:"들춰내" },
+{ base:"맞추다", eng:"to fit; adjust; match", type:"Verb", pattern:"Regular", polite:"맞춰요", formal:"맞춥니다", past:"맞췄어요", future:"맞출 거예요", casual:"맞춰" },
+{ base:"무너뜨리다", eng:"to bring down; collapse", type:"Verb", pattern:"Regular", polite:"무너뜨려요", formal:"무너뜨립니다", past:"무너뜨렸어요", future:"무너뜨릴 거예요", casual:"무너뜨려" },
+{ base:"받쳐주다", eng:"to support; hold up", type:"Verb", pattern:"Regular", polite:"받쳐줘요", formal:"받쳐줍니다", past:"받쳐줬어요", future:"받쳐줄 거예요", casual:"받쳐줘" },
+{ base:"비껴서다", eng:"to step aside; move out of the way", type:"Verb", pattern:"Regular", polite:"비껴서요", formal:"비켜섭니다", past:"비켜섰어요", future:"비켜설 거예요", casual:"비켜서" },
+{ base:"뿌리치다", eng:"to shake off; reject", type:"Verb", pattern:"Regular", polite:"뿌리쳐요", formal:"뿌리칩니다", past:"뿌리쳤어요", future:"뿌리칠 거예요", casual:"뿌리쳐" },
+{ base:"새겨듣다", eng:"to listen carefully; take to heart", type:"Verb", pattern:"Regular", polite:"새겨들어요", formal:"새겨듣습니다", past:"새겨들었어요", future:"새겨들을 거예요", casual:"새겨들어" },
+{ base:"싣다", eng:"to load; carry", type:"Verb", pattern:"Irregular (ㄷ)", polite:"실어요", formal:"싣습니다", past:"실었어요", future:"실을 거예요", casual:"실어" },
+{ base:"얼버무리다", eng:"to gloss over; evade with vague words", type:"Verb", pattern:"Regular", polite:"얼버무려요", formal:"얼버무립니다", past:"얼버무렸어요", future:"얼버무릴 거예요", casual:"얼버무려" },
+{ base:"움츠리다", eng:"to shrink; huddle; draw in", type:"Verb", pattern:"Regular", polite:"움츠려요", formal:"움츠립니다", past:"움츠렸어요", future:"움츠릴 거예요", casual:"움츠려" },
+{ base:"젖히다", eng:"to tilt back; throw open", type:"Verb", pattern:"Regular", polite:"젖혀요", formal:"젖힙니다", past:"젖혔어요", future:"젖힐 거예요", casual:"젖혀" },
+{ base:"훑어보다", eng:"to scan; glance over", type:"Verb", pattern:"Regular", polite:"훑어봐요", formal:"훑어봅니다", past:"훑어봤어요", future:"훑어볼 거예요", casual:"훑어봐" }
+ 
 ];
