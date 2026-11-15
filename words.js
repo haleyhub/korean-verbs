@@ -588,7 +588,7 @@ const words = [
 { base:"달려들다", eng:"to rush at; to attack", type:"Verb", pattern:"Regular", polite:"달려들어요", formal:"달려듭니다", past:"달려들었어요", future:"달려들 거예요", casual:"달려들어" },
 { base:"도맡다", eng:"to take charge of; to undertake entirely", type:"Verb", pattern:"Regular", polite:"도맡아요", formal:"도맡습니다", past:"도맡았어요", future:"도맡을 거예요", casual:"도맡아" },
 { base:"되살아나다", eng:"to come back to life; to revive", type:"Verb", pattern:"Regular", polite:"되살아나요", formal:"되살아납니다", past:"되살아났어요", future:"되살아날 거예요", casual:"되살아나" },
-{ base:"들춰내다", eng:"to uncover; to expose", type:"Verb", pattern:"Regular", polite:"들춰내요", formal:"들춰냅니다", past:"들춰냈어요", future:"들춰낼 거예요", casual:"들춰내" },
+
 { base:"맞닥뜨리다", eng:"to come face to face with; to encounter", type:"Verb", pattern:"Regular", polite:"맞닥뜨려요", formal:"맞닥뜨립니다", past:"맞닥뜨렸어요", future:"맞닥뜨릴 거예요", casual:"맞닥뜨려" },
 { base:"맞이하다", eng:"to welcome; to greet", type:"Verb", pattern:"Regular", polite:"맞이해요", formal:"맞이합니다", past:"맞이했어요", future:"맞이할 거예요", casual:"맞이해" },
 { base:"무릅쓰다", eng:"to brave; to risk; to endure", type:"Verb", pattern:"Regular", polite:"무릅써요", formal:"무릅씁니다", past:"무릅썼어요", future:"무릅쓸 거예요", casual:"무릅써" },
