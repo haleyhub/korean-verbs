@@ -664,7 +664,7 @@ const words = [
 { base:"부풀리다", eng:"to inflate; exaggerate", type:"Verb", pattern:"Regular", polite:"부풀려요", formal:"부풀립니다", past:"부풀렸어요", future:"부풀릴 거예요", casual:"부풀려" },
 { base:"휘말리다", eng:"to get caught up in; be swept into", type:"Verb", pattern:"Regular", polite:"휘말려요", formal:"휘말립니다", past:"휘말렸어요", future:"휘말릴 거예요", casual:"휘말려" },
 { base:"치켜들다", eng:"to raise; lift up", type:"Verb", pattern:"Irregular (ㄹ)", polite:"치켜들어요", formal:"치켜듭니다", past:"치켜들었어요", future:"치켜들 거예요", casual:"치켜들어" },
- { base:"가파르다", eng:"to be steep; sharp", type:"Adjective", pattern:"Irregular (르)", polite:"가팔라요", formal:"가파릅니다", past:"가팔랐어요", future:"가파를 거예요", casual:"가팔라" },
+
 { base:"고달프다", eng:"to be arduous; wearying", type:"Adjective", pattern:"Regular", polite:"고달파요", formal:"고달픕니다", past:"고달팠어요", future:"고달플 거예요", casual:"고달파" },
 { base:"까칠하다", eng:"to be prickly; touchy", type:"Adjective", pattern:"Regular", polite:"까칠해요", formal:"까칠합니다", past:"까칠했어요", future:"까칠할 거예요", casual:"까칠해" },
 { base:"넉넉하다", eng:"to be ample; sufficient", type:"Adjective", pattern:"Regular", polite:"넉넉해요", formal:"넉넉합니다", past:"넉넉했어요", future:"넉넉할 거예요", casual:"넉넉해" },
