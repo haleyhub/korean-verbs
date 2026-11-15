@@ -625,7 +625,6 @@ const words = [
 { base:"헤아리다", eng:"to count; to understand; to consider", type:"Verb", pattern:"Regular", polite:"헤아려요", formal:"헤아립니다", past:"헤아렸어요", future:"헤아릴 거예요", casual:"헤아려" },
  { base:"가로지르다", eng:"to cross; to traverse", type:"Verb", pattern:"Regular", polite:"가로질러요", formal:"가로지릅니다", past:"가로질렀어요", future:"가로지를 거예요", casual:"가로질러" },
 { base:"거머쥐다", eng:"to seize; to win; to take hold of", type:"Verb", pattern:"Regular", polite:"거머쥐어요", formal:"거머쥡니다", past:"거머쥐었어요", future:"거머쥘 거예요", casual:"거머쥐어" },
-{ base:"걷어차다", eng:"to kick away; to kick off", type:"Verb", pattern:"Regular", polite:"걷어차요", formal:"걷어찹니다", past:"걷어찼어요", future:"걷어찰 거예요", casual:"걷어차" },
 { base:"곁눈질하다", eng:"to glance sideways", type:"Verb", pattern:"하다", polite:"곁눈질해요", formal:"곁눈질합니다", past:"곁눈질했어요", future:"곁눈질할 거예요", casual:"곁눈질해" },
 { base:"내리쬐다", eng:"to beat down; to shine down", type:"Verb", pattern:"Regular", polite:"내리쬐어요", formal:"내리쬡니다", past:"내리쬐었어요", future:"내리쬘 거예요", casual:"내리쬐어" },
 { base:"달려가다", eng:"to run toward; to rush to", type:"Verb", pattern:"Regular", polite:"달려가요", formal:"달려갑니다", past:"달려갔어요", future:"달려갈 거예요", casual:"달려가" },
