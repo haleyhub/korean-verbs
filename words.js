@@ -442,7 +442,7 @@ const words = [
 { base:"돌이키다", eng:"to turn back; to reconsider", type:"Verb", pattern:"Regular", polite:"돌이켜요", formal:"돌이킵니다", past:"돌이켰어요", future:"돌이킬 거예요", casual:"돌이켜" },
 { base:"되돌리다", eng:"to reverse; to restore", type:"Verb", pattern:"Regular", polite:"되돌려요", formal:"되돌립니다", past:"되돌렸어요", future:"되돌릴 거예요", casual:"되돌려" },
 { base:"되찾다", eng:"to regain; to recover", type:"Verb", pattern:"Regular", polite:"되찾아요", formal:"되찾습니다", past:"되찾았어요", future:"되찾을 거예요", casual:"되찾아" },
-{ base:"되새기다", eng:"to reflect on; to recall", type:"Verb", pattern:"Regular", polite:"되새겨요", formal:"되새깁니다", past:"되새겼어요", future:"되새길 거예요", casual:"되새겨" },
+
 { base:"되살리다", eng:"to revive; to restore", type:"Verb", pattern:"Regular", polite:"되살려요", formal:"되살립니다", past:"되살렸어요", future:"되살릴 거예요", casual:"되살려" },
 { base:"내세우다", eng:"to put forward; to claim", type:"Verb", pattern:"Regular", polite:"내세워요", formal:"내세웁니다", past:"내세웠어요", future:"내세울 거예요", casual:"내세워" },
 { base:"내밀다", eng:"to hold out; to extend", type:"Verb", pattern:"Regular", polite:"내밀어요", formal:"내밉니다", past:"내밀었어요", future:"내밀 거예요", casual:"내밀어" },
