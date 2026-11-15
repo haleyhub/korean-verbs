@@ -609,7 +609,7 @@ const words = [
  { base:"가로막다", eng:"to block; to obstruct", type:"Verb", pattern:"Regular", polite:"가로막아요", formal:"가로막습니다", past:"가로막았어요", future:"가로막을 거예요", casual:"가로막아" },
 { base:"거스르다", eng:"to go against; to defy", type:"Verb", pattern:"Irregular (르)", polite:"거슬러요", formal:"거스릅니다", past:"거슬렀어요", future:"거스를 거예요", casual:"거슬러" },
 { base:"겨루다", eng:"to compete; to contend", type:"Verb", pattern:"Regular", polite:"겨뤄요", formal:"겨룹니다", past:"겨뤘어요", future:"겨룰 거예요", casual:"겨뤄" },
-{ base:"꼬집다", eng:"to pinch; to point out", type:"Verb", pattern:"Regular", polite:"꼬집어요", formal:"꼬집습니다", past:"꼬집었어요", future:"꼬집을 거예요", casual:"꼬집tern:"Regular", polite:"내세워요", formal:"내세웁니다", past:"내세웠어요", future:"내세울 거예요", casual:"내세워" },
+{ base:"꼬집다", eng:"to pinch; to point out", type:"Verb", pattern:"Regular", polite:"꼬집어요", formal:"꼬집습니다", past:"꼬집었어요", future:"꼬집을 거예요", casual:"꼬집어" },
 { base:"되돌리다", eng:"to reverse; to turn back", type:"Verb", pattern:"Regular", polite:"되돌려요", formal:"되돌립니다", past:"되돌렸어요", future:"되돌릴 거예요", casual:"되돌려" },
 { base:"들이닥치다", eng:"to rush in; to arrive unexpectedly", type:"Verb", pattern:"Regular", polite:"들이닥쳐요", formal:"들이닥칩니다", past:"들이닥쳤어요", future:"들이닥칠 거예요", casual:"들이닥쳐" },
 { base:"맞닥뜨리다", eng:"to come face-to-face with", type:"Verb", pattern:"Regular", polite:"맞닥뜨려요", formal:"맞닥뜨립니다", past:"맞닥뜨렸어요", future:"맞닥뜨릴 거예요", casual:"맞닥뜨려" },
