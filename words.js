@@ -583,7 +583,7 @@ const words = [
 { base:"내던지다", eng:"to throw down; to toss aside", type:"Verb", pattern:"Regular", polite:"내던져요", formal:"내던집니다", past:"내던졌어요", future:"내던질 거예요", casual:"내던져" },
 { base:"내려놓다", eng:"to put down; to let go", type:"Verb", pattern:"Regular", polite:"내려놔요", formal:"내려놓습니다", past:"내려놨어요", future:"내려놓을 거예요", casual:"내려놔" },
 { base:"넘나들다", eng:"to move freely between; to cross", type:"Verb", pattern:"Regular", polite:"넘나들어요", formal:"넘나듭니다", past:"넘나들었어요", future:"넘나들 거예요", casual:"넘나들어" },
-{ base:"늘어놓다", eng:"to lay out; to list at length", type:"Verb", pattern:"Regular", polite:"늘어놔요", formal:"늘어놓습니다", past:"늘어놨어요", future:"늘어놓을 거예요", casual:"늘어놔" },
+
 { base:"다그치다", eng:"to press; to urge; to scold", type:"Verb", pattern:"Regular", polite:"다그쳐요", formal:"다그칩니다", past:"다그쳤어요", future:"다그칠 거예요", casual:"다그쳐" },
 { base:"달려들다", eng:"to rush at; to attack", type:"Verb", pattern:"Regular", polite:"달려들어요", formal:"달려듭니다", past:"달려들었어요", future:"달려들 거예요", casual:"달려들어" },
 { base:"도맡다", eng:"to take charge of; to undertake entirely", type:"Verb", pattern:"Regular", polite:"도맡아요", formal:"도맡습니다", past:"도맡았어요", future:"도맡을 거예요", casual:"도맡아" },
